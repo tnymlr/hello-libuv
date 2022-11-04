@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "uv.h": "c",
+        "chrono": "c",
+        "atomic": "c",
+        "bitset": "c",
+        "__hash_table": "c",
+        "__tuple": "c",
+        "array": "c",
+        "compare": "c",
+        "cstddef": "c",
+        "type_traits": "c",
+        "limits": "c",
+        "ratio": "c",
+        "tuple": "c",
+        "variant": "c",
+        "vector": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
